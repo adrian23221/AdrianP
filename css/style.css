@@ -1,0 +1,103 @@
+.nav-pills{
+  font-family:Lobster;
+  font-size:2.0em;
+  background-color:black;
+  margin-bottom: 10%;
+
+}
+body{
+  font-family:Lobster;
+  background-color:white;
+}
+.btn-default{
+  font-size:1.7em;
+  background-color:#4d94ff;
+  border-color:black;
+}
+.pageOne{
+  background:url("https://media.daysoftheyear.com/20171223114855/web-designer-day-1.jpg");
+    background-size:cover;
+      height:800px;
+}
+
+.pageTwo{
+  background:url(http://modellist-id.com/wp-content/uploads/2018/03/global-business.jpg);
+background-size:cover;
+  height:800px;
+}
+
+.pageThree {
+  background:url(https://qph.fs.quoracdn.net/main-qimg-a4f2dbcf4f7a2adb214b320d19d76f66);
+background-size:cover;
+    width: 100%;
+    background-size: 100% 100%;
+
+  height:600px;
+  padding:1px;
+ 
+}
+.pageFour {
+  background:url(https://d2o2utebsixu4k.cloudfront.net/media/uploads/2017/01/Front-end-developemtn.png);
+background-size:cover;
+  height:800px;
+      width: 100%;
+    background-size: 100% 100%;
+}
+.myPic {
+    padding: 50px;
+opacity:0.5;
+  width:400px;
+
+}
+  
+
+
+p {
+  font-size:2.0em
+}
+.my_line {
+  Background-color:black;
+  opacity:.8;
+  padding: 15px;
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:5%;
+}
+h1{
+  font-size:5.0em;
+  padding=0;
+  margin-top =0px;
+
+ color:White;
+}
+
+h2{
+  color:white;
+  font-size:4em;
+  
+}
+h3{
+  color:white;
+  font-size:2em;
+}
+
+h4 {
+    padding-top: 25px;
+    text-align: center;
+  color:white;
+  font-size:3em;
+}
+h5 {
+  padding-left:20px;
+  color:white;
+  font-size:3em;
+  
+}
+.myIcons {
+  padding:30px;
+}
+
+.myList {
+  font-size:2em;
+}
